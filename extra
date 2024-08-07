@@ -1,0 +1,63 @@
+{
+  "location": {
+    "name": "Deesa",
+    "region": "Gujarat",
+    "country": "India",
+    "lat": 24.25,
+    "lon": 72.17,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1722353996,
+    "localtime": "2024-07-30 21:09"
+  },
+  "current": {
+    "last_updated_epoch": 1722353400,
+    "last_updated": "2024-07-30 21:00",
+ 
+    "temp_f": 87.7,
+    "is_day": 0,
+
+    "wind_mph": 6.9,
+
+    "wind_degree": 195,
+    "wind_dir": "SSW",
+    "pressure_mb": 1000,
+    "pressure_in": 29.52,
+    "precip_mm": 0.02,
+    "precip_in": 0,
+
+    "cloud": 73,
+
+    "feelslike_f": 97.6,
+    "windchill_c": 30.9,
+    "windchill_f": 87.7,
+    "heatindex_c": 36.4,
+    "heatindex_f": 97.6,
+    "dewpoint_c": 24,
+    "dewpoint_f": 75.2,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "uv": 1,
+    "gust_mph": 11,
+    "gust_kph": 17.7
+  }
+}
+
+
+
+
+
+"": 36.4,
+"": {
+    "text": "Patchy rain nearby",
+    "icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+    "code": 1063
+  },
+  "": 30.9,
+  "humidity": 67,
+  "wind_kph": 11.2,
+
+
+  feelslike_c = response.feelslike_c
+  condition = response.condition
+  temp_c = response.temp_c
+
